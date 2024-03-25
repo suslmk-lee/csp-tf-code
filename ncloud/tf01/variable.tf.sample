@@ -25,11 +25,3 @@ variable client_ip2 {
 variable client_ip3 {
   default = "203.255.255.116"
 }
-
-variable access_key {
-  default = ""
-}
-
-variable secret_key {
-  default = ""
-}
