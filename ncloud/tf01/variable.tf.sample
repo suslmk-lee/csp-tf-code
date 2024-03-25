@@ -1,0 +1,35 @@
+variable server_name01 {
+  default = "master"
+}
+
+variable server_name02 {
+  default = "worker-node01"
+}
+
+variable server_name03 {
+  default = "worker-node03"
+}
+
+variable server_name04 {
+  default = "nfs-server"
+}
+
+variable client_ip {
+  default = "218.51.176.155"
+}
+
+variable client_ip2 {
+  default = "219.240.83.33"
+}
+
+variable client_ip3 {
+  default = "203.255.255.116"
+}
+
+variable access_key {
+  default = ""
+}
+
+variable secret_key {
+  default = ""
+}
