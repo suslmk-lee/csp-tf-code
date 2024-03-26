@@ -20,4 +20,5 @@
 # Go workspace file
 go.work
 
-variables.tf
+ncloud/tf01/variables.tf
+*.tfvars

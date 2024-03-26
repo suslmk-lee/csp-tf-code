@@ -1,0 +1,16 @@
+machines = [
+  {
+    name = "master-node"
+    server_image_product_code = "SW.VSVR.OS.LNX64.UBNTU.SVR2004.B050"
+    description = "master"
+  },
+  {
+    name = "worker-node01"
+    server_image_product_code = "SW.VSVR.OS.LNX64.UBNTU.SVR2004.B050"
+    description = "worker"
+  },
+]
+
+client_ip = [
+  "218.51.176.155",  "219.240.83.33", "203.255.255.116"
+]
