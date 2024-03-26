@@ -22,3 +22,7 @@ go.work
 
 ncloud/tf01/variables.tf
 *.tfvars
+.terraform
+*.lock.hcl
+*.tfstate
+*.backup
